@@ -1,0 +1,5 @@
+classes = 10
+train = /home/affan/code/codes/object_detection/yolov4demo/train.txt
+valid = /home/affan/code/codes/object_detection/yolov4demo/test.txt
+names = /home/affan/code/codes/object_detection/yolov4demo/indoor_object.names
+backup = /home/affan/code/codes/object_detection/yolov4demo/backup/
