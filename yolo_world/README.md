@@ -14,10 +14,10 @@ python3 yolo_model_person_bus.py
 
 ## Output Results
 1. Bus and Person Image
-
+   
 ![Bus and Person Image](images/results_bus.jpg)
-2. Person Image
 
+2. Person Image
 ![Person Image](images/results_zidane.jpg)
 
 3. Dogs Image
